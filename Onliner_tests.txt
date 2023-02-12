@@ -1,0 +1,14 @@
+https://catalog.onliner.by/
+1. Go to "Электроника -> Аудиотехника -> Наушники". Check that:
+- Header has "Наушники" word
+- There are >5 goods with headphones
+- Each block from first 5 ones has "Наушники" in Name, Description
+- Each block from first 5 ones has minimum 1 review and minimum 1 offer
+- In the first block that has for-sale sign there is a price for that sign, and it's lower than minimum shop price
+- Left panel has "Минимальная цена в предложениях магазинов", "Производитель", "Магазины" blocks, below them "В наличии на складе" checkbox and "Суперцена", "С доставкой по Беларуси" checkboxes at the top
+- Left panel has additional checkboxes near "Суперцена" one and some additional blocks
+2. Go to "Дом и Сад -> Садовая техника и инструменты -> Триммеры". Check the same as in step 1. 
+3. Compare sections from pp. 1 and 2: 
+- Different price, description, name
+- Additional blocks on the left panel has different names
+- Different manufacturers and shops
